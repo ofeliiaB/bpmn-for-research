@@ -2,7 +2,7 @@
   <img src="/content/img/camunda_logo.png"  style="width:300px;height:53px;border:0;" />
 </a>
 
-# BPMN for research
+# BPMN for Research
 A collection of BPMN diagrams that can be used for research purposes.
 
 <a href="https://github.com/camunda/bpmn-for-research/archive/master.zip">
